@@ -6,8 +6,8 @@
 
 ESP8266WebServer server(80);
 
-const char* ssid = "JioFiber-FWHd6";          /*Enter Your SSID*/
-const char* password = "iewaelaixeejooch"; /*Enter Your Password*/
+const char* ssid = "xyz";          /*Enter Your SSID*/
+const char* password = "xyz"; /*Enter Your Password*/
 long X, Y, Z;
 
 /* Assign a unique ID to this sensor at the same time */
